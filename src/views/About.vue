@@ -26,7 +26,7 @@
         </div>
         <footer class="footer">
           <p class="center-align">
-            <a href="https://github.com/AndyRCR">Clockwerk</a> - Copyright 2021
+            <a href="https://github.com/AndyRCR">Clockwerk Team está conformado por: Andy Canales, Gabriel Montoya, Miguel Berrio</a> - Copyright 2021
             💙 - All proyects are supported and deployed in:
             <a href="https://github.com/">Github</a>
           </p>
