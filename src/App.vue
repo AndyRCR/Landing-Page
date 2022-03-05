@@ -7,7 +7,7 @@
             to="/"
             class="brand-logo"
             style="margin-left: 15px; font-size: 40px"
-            >AndyRCR^^</router-link
+            >Clockwerk Team</router-link
           >
           <a
             href="#"
@@ -20,7 +20,7 @@
             <li>
               <router-link to="/">Inicio</router-link>
             </li>
-            <li><router-link to="/about">Sobre mí</router-link></li>
+            <li><router-link to="/about">Sobre nosotros</router-link></li>
           </ul>
         </div>
       </nav>

@@ -18,7 +18,7 @@
             con Vue.js, Materialize y Three.js
           </p>
           <p>
-            ¿Deseas ver otros trabajos mios? Accede a ellos pulsando
+            ¿Deseas ver otros trabajos nuestros? Accede a ellos pulsando
             <a href="#" style="color: #08fdd8"
               >aquí</a
             >
