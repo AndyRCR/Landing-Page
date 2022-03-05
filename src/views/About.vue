@@ -26,8 +26,8 @@
         </div>
         <footer class="footer">
           <p class="center-align">
-            <a href="https://github.com/AndyRCR">AndyRCR^^</a> - Copyright 2021
-            💙 - Supported and deployed in:
+            <a href="https://github.com/AndyRCR">Clockwerk</a> - Copyright 2021
+            💙 - All proyects are supported and deployed in:
             <a href="https://github.com/">Github</a>
           </p>
         </footer>
