@@ -26,9 +26,29 @@
         </div>
         <footer class="footer">
           <p class="center-align">
-            <a href="https://github.com/AndyRCR">Clockwerk Team está conformado por: Andy Canales, Gabriel Montoya, Miguel Berrio</a> - Copyright 2021
-            💙 - All proyects are supported and deployed in:
-            <a href="https://github.com/">Github</a>
+            Clockwerk Team está conformado por:
+          </p>
+          <ul class="center-align">
+            <li>
+              Andy Canales Roman - 
+              <a style="color: #08fdd8" href="https://www.linkedin.com/in/andy-ruben-canales-roman-818a39219/">Ver mas</a>
+            </li>
+            <li>
+              Angelo Calvo Pimentel - 
+              <a style="color: #08fdd8" href="https://www.linkedin.com/in/angelo-jampierre-b9a714221/">Ver mas</a>
+            </li>
+            <li>
+              Gabriel Montoya Huamani - 
+              <a style="color: #08fdd8" href="https://www.linkedin.com/in/gabriel-montoya-huamani-a525b0193/">Ver mas</a>
+            </li>
+            <li>
+              Miguel Berrio Huamani - 
+              <a style="color: #08fdd8" href="https://www.linkedin.com/in/miguel-angel-berrio-huamani-842123162/">Ver mas</a>
+            </li>
+          </ul>
+          <p class="center-align">
+            Copyright 2022 💙 - Todos nuestros proyectos reciben constante soporte y son desplegados en nuestros diferentes repositorios de
+            <a style="color: #08fdd8" href="https://github.com/">Github</a>
           </p>
         </footer>
       </div>
