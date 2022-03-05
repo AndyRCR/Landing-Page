@@ -30,12 +30,12 @@
           </p>
           <ul class="center-align">
             <li>
-              Andy Canales Roman - 
-              <a style="color: #08fdd8" href="https://www.linkedin.com/in/andy-ruben-canales-roman-818a39219/">Ver mas</a>
-            </li>
-            <li>
               Angelo Calvo Pimentel - 
               <a style="color: #08fdd8" href="https://www.linkedin.com/in/angelo-jampierre-b9a714221/">Ver mas</a>
+            </li>
+            <li>
+              Andy Canales Roman - 
+              <a style="color: #08fdd8" href="https://www.linkedin.com/in/andy-ruben-canales-roman-818a39219/">Ver mas</a>
             </li>
             <li>
               Gabriel Montoya Huamani - 
