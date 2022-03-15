@@ -12,42 +12,44 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col s8 offset-s2">
-          <h1>Hola</h1>
+          <h1>Hola :D</h1>
           <p>
-            Muchas gracias por visitar esta sección, este proyecto fue realizado
-            con Vue.js, Materialize y Three.js
+            Muchas gracias por visitar esta sección, mi nombre es Andy Ruben Canales Roman
+            Soy un estudiante de la carrera de Ingeniería de Sistemas, con un gran interés
+            en el area del desarrollo web Front-end.
+            <br><br>
+            Actualmente me encuentro trabajando como Líder de proyecto y Analista de datos en 
+            la empresa de desarrollo tecnológico Ezforms y en el rubro de la programación web como desarrollador
+            Front-end freelance; cualquier duda o consulta tambien puede realizarlo por mi correo o número telefonico:
+            <a href="https://api.whatsapp.com/send/?phone=51970811868&text&app_absent=0" style="color: #08fdd8">andycr321@gmail.com</a> / 
+            <a href="https://andyrcr.github.io/MusiCSStore---CEA/" style="color: #08fdd8" target="_blank"> +51 970811868</a>
           </p>
+
           <p>
-            ¿Deseas ver otros trabajos nuestros? Accede a ellos pulsando
-            <a href="#" style="color: #08fdd8"
-              >aquí</a
-            >
+            ¿Deseas ver algunos de mis trabajos? Dales un vistazo:
           </p>
+          <div class="container-proyectos">
+            <div>
+              <a href="https://andyrcr.github.io/MusiCSStore---CEA/" target="_blank">
+                <p style="color: #08fdd8">MusiCSStore</p>
+              </a>
+              <a href="https://andyrcr.github.io/MusiCSStore---CEA/" target="_blank">
+              <video src="../assets/video/video1.mp4" autoplay loop></video>
+              </a>
+            </div>
+            <div>
+              <a href="https://andyrcr2.github.io/DrinkHouse/" target="_blank">
+                <p style="color: #08fdd8">Drink House</p>
+              </a>
+              <a href="https://andyrcr2.github.io/DrinkHouse/" target="_blank">
+                <video src="../assets/video/video2.mp4" autoplay loop></video>
+              </a>
+            </div>
+          </div>
         </div>
         <footer class="footer">
           <p class="center-align">
-            Clockwerk Team está conformado por:
-          </p>
-          <ul class="center-align">
-            <li>
-              Angelo Calvo Pimentel - 
-              <a style="color: #08fdd8" href="https://www.linkedin.com/in/angelo-jampierre-b9a714221/">Ver mas</a>
-            </li>
-            <li>
-              Andy Canales Roman - 
-              <a style="color: #08fdd8" href="https://www.linkedin.com/in/andy-ruben-canales-roman-818a39219/">Ver mas</a>
-            </li>
-            <li>
-              Gabriel Montoya Huamani - 
-              <a style="color: #08fdd8" href="https://www.linkedin.com/in/gabriel-montoya-huamani-a525b0193/">Ver mas</a>
-            </li>
-            <li>
-              Miguel Berrio Huamani - 
-              <a style="color: #08fdd8" href="https://www.linkedin.com/in/miguel-angel-berrio-huamani-842123162/">Ver mas</a>
-            </li>
-          </ul>
-          <p class="center-align">
-            Copyright 2022 💙 - Todos nuestros proyectos reciben constante soporte y son desplegados en nuestros diferentes repositorios de
+            Copyright 2022 💙 - Todos los proyectos o páginas reciben constante soporte y son desplegados en hostings de total confianza.<br> Mi github:
             <a style="color: #08fdd8" href="https://github.com/">Github</a>
           </p>
         </footer>
@@ -56,6 +58,20 @@
   </div>
 </template>
 <style scoped>
+*{
+  overflow-x: hidden;
+}
+.container-proyectos{
+  display: flex;
+  justify-content: space-around;
+}
+.container-proyectos p{
+  text-align: center;
+}
+.row{
+  display: flex;
+  flex-direction: column;
+}
 .about {
   margin-top: 64px;
 }
@@ -73,10 +89,21 @@ a:hover {
   color: #08fdd8;
 }
 .footer {
-  position: absolute;
-  bottom: 40px;
+  /* position: absolute; */
+  margin-top: 70px;
   width: 100vw;
   color: white;
   padding: 0 20px;
+}
+video{
+  width: 100%;
+  max-width: 450px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+@media (max-width: 450px){
+  .container-proyectos{
+    flex-direction: column;
+  }
 }
 </style>
