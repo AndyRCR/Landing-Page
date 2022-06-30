@@ -20,8 +20,8 @@
             <br><br>
             He tenido experiencia como Líder de Proyectos/Analista Programador, y en el rubro de la programación web como desarrollador
             Front-end freelance; cualquier duda o consulta tambien puede realizarlo por mi correo o número telefonico:
-            <a href="https://api.whatsapp.com/send/?phone=51970811868&text&app_absent=0" style="color: #08fdd8">andycr321@gmail.com</a> / 
-            <a href="https://andyrcr.github.io/MusiCSStore---CEA/" style="color: #08fdd8" target="_blank"> +51 970811868</a>
+            <a href="mailto:andycr321@gmail.com" style="color: #08fdd8">andycr321@gmail.com</a> / 
+            <a href="https://api.whatsapp.com/send/?phone=51970811868&text&app_absent=0" style="color: #08fdd8" target="_blank"> +51 970811868</a>
           </p>
 
           <p>
