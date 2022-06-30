@@ -20,7 +20,7 @@
             <li>
               <router-link to="/">Inicio</router-link>
             </li>
-            <li><router-link to="/about">Sobre mí</router-link></li>
+            <li><router-link to="/about">Sobre mí - Proyectos</router-link></li>
           </ul>
         </div>
       </nav>
@@ -31,7 +31,7 @@
         </li>
         <li>
           <router-link to="./about" id="about" @click="test"
-            >Sobre mí</router-link
+            >Sobre mí - Proyectos</router-link
           >
         </li>
       </ul>

@@ -15,17 +15,17 @@ export default {
       "Javascript",
       "CSS",
       "HTML",
-      "C++",
-      "Vue.Js",
-      "Python",
+      "React",
+      "Vue.js",
+      "Material-UI",
+      "Node.js",
+      "Express.js",
       "Git",
-      "Java",
-      "Spring",
-      "Npm",
-      "Angular",
-      "Materialize",
-      "SQl",
-      "DJango",
+      "Firebase",
+      "AWS RDS",
+      "AWS S3",
+      "MongoDB",
+      "SQL"
     ];
 
     const scene = new THREE.Scene();
