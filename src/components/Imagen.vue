@@ -22,8 +22,8 @@ export default {
       "Express.js",
       "Git",
       "Firebase",
-      "AWS RDS",
-      "AWS S3",
+      "AWS RDS & S3",
+      "Three.js",
       "MongoDB",
       "SQL"
     ];
