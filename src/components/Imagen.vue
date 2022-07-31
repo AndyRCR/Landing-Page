@@ -13,11 +13,10 @@ export default {
     const medida = document.querySelector(".div-container");
     const tecnologias = [
       "Javascript",
-      "CSS",
-      "HTML",
+      "SASS",
       "React",
       "Vue.js",
-      "Material-UI",
+      "BLender",
       "Node.js",
       "Express.js",
       "Git",
@@ -25,7 +24,8 @@ export default {
       "AWS RDS & S3",
       "Three.js",
       "MongoDB",
-      "SQL"
+      "SQL",
+      "Material-UI"
     ];
 
     const scene = new THREE.Scene();

@@ -31,11 +31,11 @@
           <div style="color: #08fdd8; font-size: 24px; text-align: center; margin-top: 30px;">Proyectos en React</div>
           <div class="container-proyectos">
             <div>
-              <a href="https://la-tienda-pe.vercel.app/" target="_blank">
+              <a href="https://la-tienda-pe-andyrcr.vercel.app/" target="_blank">
                 <p style="color: #08fdd8">La Tienda Pe'</p>
               </a>
-              <a href="https://la-tienda-pe.vercel.app/" target="_blank">
-                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/tiendape.mp4" autoplay loop muted></video>
+              <a href="https://la-tienda-pe-andyrcr.vercel.app/" target="_blank">
+                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/tiendape_reduced.mp4" autoplay loop muted></video>
               </a>
               <div style="max-width: 450px; margin-top: 20px; text-align: center;">
                 Primer proyecto en React, desarrollado para la presentación final del curso de React en Coderhouse.
@@ -47,35 +47,47 @@
                 <p style="color: #08fdd8">Weather App</p>
               </a>
               <a href="https://weather-app-andyrcr.vercel.app/" target="_blank">
-                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/weatherapp.mp4" autoplay loop muted></video>
+                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/weatherapp_reduced.mp4" autoplay loop muted></video>
               </a>
               <div style="max-width: 450px; margin-top: 20px; text-align: center;">
-                Proyecto realizado para el curso de Algoritmos de Computación Gráfica.
+                Aplicativo que simula un panel de administración para una página de pronóstico climático; realizado para el curso de Algoritmos de Computación Gráfica. (Responsive design pendiente)
                 <p style="font-weight: bold; font-size: 15px;">Tecnologías usadas: React, Cloud Firestore, Styled-components, Ant Design</p>
               </div>
             </div>
             <div>
-              <a href="https://foxbel-music-player.vercel.app/" target="_blank">
+              <a href="https://foxbel-music-player-andyrcr.vercel.app/" target="_blank">
                 <p style="color: #08fdd8">Foxbel Music Player</p>
               </a>
-              <a href="https://foxbel-music-player.vercel.app/" target="_blank">
-                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/foxbel.mp4" autoplay loop muted></video>
+              <a href="https://foxbel-music-player-andyrcr.vercel.app/" target="_blank">
+                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/foxbel_reduced.mp4" autoplay loop muted></video>
               </a>
               <div style="max-width: 450px; margin-top: 20px; text-align: center;">
-                Proyecto realizado como prueba técnica para uno de mis anteriores trabajos, resaltado como uno de los mejores entregados.
+                Reproductor de música con diseño responsive, realizado con la API de Deezer.
                 <p style="font-weight: bold; font-size: 15px;">Tecnologías usadas: React, Material-UI, Deezer API</p>
               </div>
             </div>
             <div>
-              <a href="https://peko-cinema.vercel.app/" target="_blank">
-                <p style="color: #08fdd8">Peko Cinema (Desktop only)</p>
+              <a href="https://peko-cinema-andyrcr.vercel.app/" target="_blank">
+                <p style="color: #08fdd8">Peko Cinema</p>
               </a>
-              <a href="https://peko-cinema.vercel.app/" target="_blank">
-                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/peko.mp4" autoplay loop muted></video>
+              <a href="https://peko-cinema-andyrcr.vercel.app/" target="_blank">
+                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/peko_reduced.mp4" autoplay loop muted></video>
               </a>
               <div style="max-width: 450px; margin-top: 20px; text-align: center;">
-                Proyecto realizado de manera personal, a fin de poner en práctica lo aprendido durante mis últimos cursos.
-                <p style="font-weight: bold; font-size: 15px;">Tecnologías usadas: React, Material-UI, AWS S3, Cloud Firestore</p>
+                Web app que simula el flujo de compra de entradas y adicionales de la página de Cineplanet. (Responsive design pendiente)
+                <p style="font-weight: bold; font-size: 15px;">Tecnologías usadas: React, Material-UI, AWS S3, Cloud Firestore, EmailJS</p>
+              </div>
+            </div>
+            <div>
+              <a href="https://untels-lp-andyrcr.vercel.app/" target="_blank">
+                <p style="color: #08fdd8">Untels - Landing Page</p>
+              </a>
+              <a href="https://untels-lp-andyrcr.vercel.app/" target="_blank">
+                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/untels_reduced.mp4" autoplay loop muted></video>
+              </a>
+              <div style="max-width: 450px; margin-top: 20px; text-align: center;">
+                Lading Page inmersiva de mi universidad realizada con modelo en blender y con motivo de proyecto final para uno de mis cursos. (Responsive design pendiente)
+                <p style="font-weight: bold; font-size: 15px;">Tecnologías usadas: Vue, Three.js, Materialize, AWS S3, Cloud Firestore, EmailJS, Blender, Autocad</p>
               </div>
             </div>
           </div>
@@ -87,7 +99,7 @@
                 <p style="color: #08fdd8">MusiCSStore</p>
               </a>
               <a href="https://andyrcr.github.io/MusiCSStore---CEA/" target="_blank">
-                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/musicsstore.mp4" autoplay loop muted></video>
+                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/musicsstore_reduced.mp4" autoplay loop muted></video>
               </a>
             </div>
             <div>
@@ -95,7 +107,7 @@
                 <p style="color: #08fdd8">Drink House</p>
               </a>
               <a href="https://andyrcr2.github.io/DrinkHouse/" target="_blank">
-                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/drinkhouse.mp4" autoplay loop muted></video>
+                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/drinkhouse_reduced.mp4" autoplay loop muted></video>
               </a>
             </div>
           </div>
