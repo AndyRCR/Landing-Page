@@ -104,7 +104,7 @@
             </div>
           </div>
 
-          <div style="color: #08fdd8; font-size: 24px; text-align: center; margin-top: 30px;">Primeras Paginas Web (2020)</div>
+          <div style="color: #08fdd8; font-size: 24px; text-align: center; margin-top: 30px;">Primeras Paginas Web (2018)</div>
           <div class="container-proyectos">
             <div>
               <a href="https://andyrcr.github.io/MusiCSStore---CEA/" target="_blank">
