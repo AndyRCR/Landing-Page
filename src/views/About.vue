@@ -86,8 +86,20 @@
                 <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/untels_reduced.mp4" autoplay loop muted></video>
               </a>
               <div style="max-width: 450px; margin-top: 20px; text-align: center;">
-                Lading Page inmersiva de mi universidad realizada con modelo en blender y con motivo de proyecto final para uno de mis cursos. (Responsive design pendiente)
-                <p style="font-weight: bold; font-size: 15px;">Tecnologías usadas: Vue, Three.js, Materialize, AWS S3, Cloud Firestore, EmailJS, Blender, Autocad</p>
+                Landing Page inmersiva de mi universidad realizada con modelo en blender y con motivo de proyecto final para uno de mis cursos. (Responsive design pendiente)
+                <p style="font-weight: bold; font-size: 15px;">Tecnologías usadas: React, Three.js, AWS S3, Cloud Firestore, EmailJS, Blender, Autocad</p>
+              </div>
+            </div>
+            <div>
+              <a href="https://andycanales.vercel.app/" target="_blank">
+                <p style="color: #08fdd8">Mi portfolio</p>
+              </a>
+              <a href="https://andycanales.vercel.app/" target="_blank">
+                <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/portfolio_reduced.mp4" autoplay loop muted></video>
+              </a>
+              <div style="max-width: 450px; margin-top: 20px; text-align: center;">
+                Landing Page de presentación con información puntual, proyectos y tecnologías que manejo.
+                <p style="font-weight: bold; font-size: 15px;">Tecnologías usadas: Vue, Three.js, Materialize, AWS S3</p>
               </div>
             </div>
           </div>
