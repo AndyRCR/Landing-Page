@@ -28,7 +28,7 @@
             ¿Deseas ver algunos de mis trabajos? Aún me encuentro refinando algunos otros, pero puedes ir dándole un vistazo a estos 😉
           </p>
 
-          <div style="color: #08fdd8; font-size: 24px; text-align: center; margin-top: 30px;">Proyectos en React</div>
+          <div style="color: #08fdd8; font-size: 24px; text-align: center; margin-top: 30px;">Principales proyectos</div>
           <div class="container-proyectos">
             <div>
               <a href="https://la-tienda-pe-andyrcr.vercel.app/" target="_blank">
