@@ -16,7 +16,7 @@ export default {
       "SASS",
       "React",
       "Vue.js",
-      "BLender",
+      "Blender",
       "Node.js",
       "Express.js",
       "Git",
