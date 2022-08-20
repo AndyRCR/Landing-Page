@@ -25,7 +25,7 @@ export default {
       "Three.js",
       "MongoDB",
       "SQL",
-      "Material-UI"
+      "Angular"
     ];
 
     const scene = new THREE.Scene();
