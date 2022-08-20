@@ -167,6 +167,7 @@ h1 {
 }
 p {
   font-size: 20px;
+  text-align: justify;
 }
 * {
   color: white;
@@ -204,9 +205,13 @@ video{
   }
 }
 
-@media (max-width: 450px){
+@media (max-width: 500px){
   .container-proyectos{
     flex-direction: column;
+  }
+
+  p{
+    font-size: 16px;
   }
 }
 </style>
