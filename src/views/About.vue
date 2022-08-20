@@ -50,7 +50,7 @@
                 <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/weatherapp_reduced.mp4" autoplay loop muted></video>
               </a>
               <div style="max-width: 450px; margin-top: 20px; text-align: center;">
-                Aplicativo que simula un panel de administración para una página de pronóstico climático; realizado para el curso de Algoritmos de Computación Gráfica. (Responsive design pendiente)
+                Aplicativo que simula un panel de administración para una página de pronóstico climático; realizado para el curso de Algoritmos de Computación Gráfica.
                 <p style="font-weight: bold; font-size: 15px;">Tecnologías usadas: React, Cloud Firestore, Styled-components, Ant Design</p>
               </div>
             </div>
@@ -86,7 +86,7 @@
                 <video src="https://andyrcr-portfolio.s3.sa-east-1.amazonaws.com/untels_reduced.mp4" autoplay loop muted></video>
               </a>
               <div style="max-width: 450px; margin-top: 20px; text-align: center;">
-                Landing Page inmersiva de mi universidad realizada con modelo en blender y con motivo de proyecto final para uno de mis cursos. (Responsive design pendiente)
+                Landing Page inmersiva de mi universidad realizada con modelo en blender y con motivo de proyecto final para uno de mis cursos.
                 <p style="font-weight: bold; font-size: 15px;">Tecnologías usadas: React, Three.js, AWS S3, Cloud Firestore, EmailJS, Blender, Autocad</p>
               </div>
             </div>
@@ -175,7 +175,6 @@ a:hover {
   color: #08fdd8;
 }
 .footer {
-  /* position: absolute; */
   margin-top: 70px;
   width: 100vw;
   color: white;
@@ -187,6 +186,24 @@ video{
   border: 1px solid white;
   border-radius: 5px;
 }
+
+@media (max-width: 1500px){
+  .row .col.offset-s2 {
+      margin-left: 10%;
+  }
+
+  .row .col.s8 {
+      width: 85%;
+  }
+}
+
+@media (max-width: 1200px){
+  .container-proyectos{
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  }
+}
+
 @media (max-width: 450px){
   .container-proyectos{
     flex-direction: column;
