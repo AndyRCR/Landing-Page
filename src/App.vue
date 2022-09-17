@@ -9,7 +9,7 @@
             style="margin-left: 15px; font-size: 40px"
             >AndyRCR^^</router-link
           >
-          <a
+          <!-- <a
             href="#"
             data-target="mobile-demo"
             class="sidenav-trigger"
@@ -21,11 +21,11 @@
               <router-link to="/">Inicio</router-link>
             </li>
             <li><router-link to="/about">Sobre mí - Proyectos</router-link></li>
-          </ul>
+          </ul> -->
         </div>
       </nav>
 
-      <ul class="sidenav" id="mobile-demo">
+      <!-- <ul class="sidenav" id="mobile-demo">
         <li>
           <router-link to="/" id="inicio" @click="test">Inicio</router-link>
         </li>
@@ -34,7 +34,7 @@
             >Sobre mí - Proyectos</router-link
           >
         </li>
-      </ul>
+      </ul> -->
     </div>
 
     <router-view style="position: absolute; top: 0vh; z-index: -1" />
