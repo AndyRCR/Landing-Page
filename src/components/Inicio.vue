@@ -11,15 +11,13 @@
         </a>
         <div class="mano2">👈</div>
       </div>
-    <a
-      href="https://www.linkedin.com/in/andy-ruben-canales-roman-818a39219/"
-    >
+    <a href="https://www.linkedin.com/in/andy-ruben-canales-roman-818a39219/" target="_blank">
       <img src="@/assets/icons/linkedin.png" />
     </a>
-    <a href="https://github.com/AndyRCR">
+    <a href="https://github.com/AndyRCR" target="_blank">
       <img src="@/assets/icons/github.png" />
     </a>
-    <a href="https://twitter.com/RubenCanalesR">
+    <a href="https://twitter.com/RubenCanalesR" target="_blank">
       <img src="@/assets/icons/twitter.png" />
     </a>
   </div>
@@ -33,6 +31,10 @@ h3 {
 }
 p {
   font-size: 25px;
+}
+img{
+  margin: 20px 10px;
+  transition: .3s;
 }
 img:hover {
   transform: scale(1.5);
